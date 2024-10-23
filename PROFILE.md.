@@ -1,1 +1,9 @@
-Welcome to my GitHub profile!
+Hello Everyone! 
+Welcome to my Github Profile! 
+This is where i am compiling all my little projects for both python and Cpp programming language
+print ("Hello World!")
+include <iostream>
+using namespace std;
+int main (){
+cout << " Hello World! " << endl;
+return 0; }
